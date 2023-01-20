@@ -6,5 +6,6 @@
 
 - Projeto realizado no decorrer dos estudos com CSS3 📝💻🚀
 - #️⃣flex container #️⃣flex item #️⃣carreiradev 
+* **[Projeto Flexbox](https://helena-lujan-gomes.github.io/projeto-flexbox/)** 
 
 
